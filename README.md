@@ -1,4 +1,4 @@
-# 2nd-Semester-OOP-Project-Developing-Tetris-with-Object-Oriented-Programming-and-Raylib## Tetris: An OOP Adventure in Game Development
+# Tetris: An OOP Adventure in Game Development
 
 Welcome to **Tetris: An OOP Adventure in Game Development**, a captivating and block-stacking journey! Prepare to dive into a world of strategic fun as you maneuver falling tetrominoes through increasingly challenging levels. Inspired by the timeless classic Tetris, this Raylib-powered version introduces a modern twist to the beloved gameplay, providing an engaging experience for players of all ages.
 

@@ -2,7 +2,7 @@
 
 Welcome to **Tetris: An OOP Adventure in Game Development**, a captivating and block-stacking journey! Prepare to dive into a world of strategic fun as you maneuver falling tetrominoes through increasingly challenging levels. Inspired by the timeless classic Tetris, this Raylib-powered version introduces a modern twist to the beloved gameplay, providing an engaging experience for players of all ages.
 
-This project is a semester assignment for Object Oriented Programming, taught by the excellent Professor Sara Rehmat at FAST-NUCES Peshawar!
+This project is a semester assignment for Object Oriented Programming, at FAST-NUCES Peshawar!
 
 ### Features:
 🕹️ **Responsive Controls**: Move, rotate, and drop tetrominoes with ease, making every move a critical part of your strategy.
